@@ -2,10 +2,10 @@
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MShawon/YouTube-Viewer.svg">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06B121&lines=Hi%2C+Spotify+Listener!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06B121&lines=Spotify+Listener!)](https://git.io/typing-svg)
 
 
-# Spotify Listener
+<!-- # Spotify Listener -->
 Simple program to increase Spotify listen written in Python.
 
 **Disclaimer:** This has been developed for educational purposes only. Any action you take using this script is strictly at your own risk. I will not be liable for any losses or damages you face using this script.
