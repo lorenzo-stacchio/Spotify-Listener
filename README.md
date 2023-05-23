@@ -1,10 +1,6 @@
 <p align="center">
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MShawon/YouTube-Viewer.svg">
 </p>
-<p align="center">
-  <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MShawon/YouTube-Viewer?color=success"></a>
-  <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MShawon/YouTube-Viewer?color=success"></a>
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06B121&lines=Hi%2C+Spotify+Listener!)](https://git.io/typing-svg)
 
